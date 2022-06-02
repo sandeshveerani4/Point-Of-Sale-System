@@ -21,7 +21,6 @@ def takeInput():
     """)
     return int(input("Choose an action(1-7): "))
 
-
 def main():
     choice = takeInput()
     clearShell()
