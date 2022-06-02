@@ -6,7 +6,6 @@ from updateProduct import updateProduct
 from utils import clearShell
 from takeOrder import takeOrder
 
-
 def takeInput():
     clearShell()
     print("""== = == = Welcome to POS System == = == =
