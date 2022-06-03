@@ -9,7 +9,7 @@ from takeOrder import takeOrder
 
 def main():
     clearShell()
-     System == = == =
+    print("""== = == = Welcome to POS System == = == =
 
     1. Take order
     2. List orders
@@ -19,7 +19,7 @@ def main():
     6. Broadcast Offer
     7. Exit
     """)
-    choice=int(input("Choose an action(1-7): "))
+    choice = int(input("Choose an action(1-7): "))
     clearShell()
     if choice == 1:
         takeOrder()
