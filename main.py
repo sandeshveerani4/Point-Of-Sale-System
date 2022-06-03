@@ -24,11 +24,11 @@ def main():
     if choice == 1:
         takeOrder()
     elif choice == 2:
-        listOfOrders()
+        listOrder()
     elif choice == 3:
         addProduct()
     elif choice == 4:
-        listOfProducts()
+        listProduct()
     elif choice == 5:
         updateProduct()
     elif choice == 6:
