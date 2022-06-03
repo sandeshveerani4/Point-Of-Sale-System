@@ -9,7 +9,7 @@ from takeOrder import takeOrder
 
 def main():
     clearShell()
-    print("""== = == = Welcome to POS System == = == =
+     System == = == =
 
     1. Take order
     2. List orders
